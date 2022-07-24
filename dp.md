@@ -1,6 +1,6 @@
 # 状态规划
 # AcWing 278.数字组合
-`
+```
 #include <iostream>
 using namespace std;
 
@@ -35,4 +35,4 @@ int main(void)
 
     return 0;
 }
-`
+```
